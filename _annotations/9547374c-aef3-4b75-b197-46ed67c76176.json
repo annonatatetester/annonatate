@@ -17,15 +17,15 @@ order: 1
             "value": "test"
         },
         {
-            "type": "TextualBody",
-            "value": "testing",
-            "purpose": "commenting",
+            "created": "2023-09-15T18:13:36.752Z",
             "creator": {
                 "id": "dnoneill",
                 "name": "dnoneill"
             },
-            "created": "2023-09-15T18:13:36.752Z",
-            "modified": "2023-09-15T18:13:37.378Z"
+            "modified": "2023-09-15T18:13:37.378Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "testing"
         }
     ],
     "id": "9547374c-aef3-4b75-b197-46ed67c76176.json",
@@ -33,15 +33,15 @@ order: 1
     "target": {
         "selector": {
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=2025.8310546875,1022.688232421875,2408.72509765625,1308.798095703125"
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2025.8310546875,1022.688232421875 3230.193603515625,1022.688232421875 4434.55615234375,1022.688232421875 4434.55615234375,1677.0872802734375 4434.55615234375,2331.486328125 3230.193603515625,2331.486328125 2025.8310546875,2331.486328125 2025.8310546875,1677.0872802734375\"></polygon></svg>"
         },
         "source": {
+            "id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1",
             "partOf": {
                 "id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
                 "type": "Manifest"
             },
-            "id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1",
             "type": "Canvas"
         }
     },
