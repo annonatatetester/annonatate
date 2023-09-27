@@ -4,20 +4,21 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "test",
-            "purpose": "commenting",
+            "created": "2023-09-27T16:32:23.307Z",
             "creator": {
                 "id": "dnoneill",
                 "name": "dnoneill"
             },
-            "created": "2023-09-27T16:32:23.307Z",
-            "modified": "2023-09-27T16:32:23.713Z"
+            "modified": "2023-09-27T16:32:23.713Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "test"
         }
     ],
+    "id": "2247f41f-fa38-4f19-8e6a-51c704a8aa3b.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -28,10 +29,9 @@ order: 4
             "type": "Canvas"
         },
         "selector": {
-            "value": "<svg><polygon points=\"3046.75048828125,4009.29638671875 4269.096923828125,4009.29638671875 5491.443359375,4009.29638671875 5491.443359375,4860.049560546875 5491.443359375,5710.802734375 4269.096923828125,5710.802734375 3046.75048828125,5710.802734375 3046.75048828125,4860.049560546875\"></polygon></svg>",
-            "type": "SvgSelector"
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3046.8,4009.3 4269.1,4009.3 5491.4,4009.3 5491.4,4860 7721,5925.9 4269.1,5710.8 3046.8,5710.8 1560.4,5221.9\"></polygon></svg>"
         }
     },
-    "id": "2247f41f-fa38-4f19-8e6a-51c704a8aa3b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
