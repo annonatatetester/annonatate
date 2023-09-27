@@ -1,0 +1,37 @@
+---
+canvas: "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "test",
+            "purpose": "commenting",
+            "creator": {
+                "id": "dnoneill",
+                "name": "dnoneill"
+            },
+            "created": "2023-09-27T14:50:53.184Z",
+            "modified": "2023-09-27T14:50:53.584Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
+                "type": "Manifest"
+            },
+            "id": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"582.5,2816.2861328125 2440.466552734375,4009.29638671875 -121.57154846191406,4791.59814453125\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8e7972da-7ae7-4b10-b2a7-88096f1cd272.json",
+    "motivation": "commenting"
+}
