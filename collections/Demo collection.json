@@ -9,6 +9,12 @@
             "title": "board 1 first to display",
             "description": "Description about annotation",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://annonatatetester.github.io/annonatate/annotations/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1-list.json'></iiif-storyboard>",
+            "title": "board 2",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
