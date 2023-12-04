@@ -1,0 +1,38 @@
+---
+canvas: "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Tabacco",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatetester",
+                "name": "annonatatetester"
+            },
+            "created": "2023-12-04T23:52:39.415Z",
+            "modified": "2023-12-04T23:52:43.487Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=781.1380615234375,755.8118896484375,611.5205078125,247.3565673828125"
+        }
+    },
+    "id": "9fc5aec6-d2fe-4bad-9a1e-3bd102c14c19.json",
+    "motivation": "commenting"
+}
