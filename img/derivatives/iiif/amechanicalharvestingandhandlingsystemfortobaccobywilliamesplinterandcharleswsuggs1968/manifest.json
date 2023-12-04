@@ -1,13 +1,9 @@
 ---
-added: 2023-11-28 23&#58;10&#58;40.185254
-thumbnail: https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/1/full/111,/0/default.jpg
-title: A Mechanical Harvesting and Handling System for Tobacco by William E. Splinter
-  and Charles W. Suggs, 1968
-user: annonatatetester
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/manifest.json",
+  "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -39,7 +35,7 @@ user: annonatatetester
   "viewingDirection": "left-to-right",
   "items": [
     {
-      "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1",
+      "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -48,7 +44,7 @@ user: annonatatetester
       },
       "thumbnail": [
         {
-          "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/1/full/111,/0/default.jpg",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/1/full/111,/0/default.jpg",
           "type": "thumbnail"
         }
       ],
@@ -56,35 +52,41 @@ user: annonatatetester
       "width": 3548,
       "items": [
         {
-          "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/page/p1/1",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/page/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/annotation/p0001-image",
+              "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/annotation/p0001-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/1/full/full/0/default.jpg",
+                "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/1/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4528,
                 "width": 3548,
                 "service": [
                   {
-                    "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/1",
+                    "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/1",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
                 ]
               },
-              "target": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1"
+              "target": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "{{ '/' | absolute_url }}annotations/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-1-list.json",
+          "type": "AnnotationPage"
         }
       ]
     },
     {
-      "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-2",
+      "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -93,7 +95,7 @@ user: annonatatetester
       },
       "thumbnail": [
         {
-          "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/2/full/107,/0/default.jpg",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/2/full/107,/0/default.jpg",
           "type": "thumbnail"
         }
       ],
@@ -101,30 +103,36 @@ user: annonatatetester
       "width": 6879,
       "items": [
         {
-          "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/page/p2/1",
+          "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/page/p2/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/annotation/p0002-image",
+              "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/annotation/p0002-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/2/full/full/0/default.jpg",
+                "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 4552,
                 "width": 6879,
                 "service": [
                   {
-                    "id": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/2",
+                    "id": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/2",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
                 ]
               },
-              "target": "https://annonatatetester.github.io/annonatate/img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-2"
+              "target": "{{ '/' | absolute_url }}img/derivatives/iiif/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968/canvas/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-2"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "{{ '/' | absolute_url }}annotations/amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-amechanicalharvestingandhandlingsystemfortobaccobywilliamesplinterandcharleswsuggs1968-2-list.json",
+          "type": "AnnotationPage"
         }
       ]
     }
