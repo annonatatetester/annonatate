@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Demo collection",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://annonatatetester.github.io/annonatate/annotations/wh234bz9013-cocina-fileset-wh234bz9013-wh234bz9013-1-list.json'></iiif-storyboard>",
+            "title": "board 1 first to display",
+            "description": "Description about annotation",
+            "thumbnail": ""
+        }
+    ]
+}
