@@ -1,0 +1,38 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/ua050_004_287336_20230811_86492_0001"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "test",
+            "purpose": "commenting",
+            "creator": {
+                "id": "annonatatetester",
+                "name": "annonatatetester"
+            },
+            "created": "2023-12-06T23:25:13.132Z",
+            "modified": "2023-12-06T23:25:13.485Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://d.lib.ncsu.edu/collections/catalog/ua050_004_287336_20230811_86492/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/ua050_004_287336_20230811_86492_0001",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1357.245849609375,1601.4366455078125,356.02587890625,284.00537109375"
+        }
+    },
+    "id": "0d42151d-0454-421a-b70c-1b126539c30b.json",
+    "motivation": "commenting"
+}
